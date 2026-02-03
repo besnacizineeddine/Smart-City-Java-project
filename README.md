@@ -17,6 +17,7 @@ It manages citizens (residents, employees, visitors) and services, and allows in
 
 2.Compile the project:
 javac src/miniproject/*.java
+java miniproject.mainc
 3.- Run the main class
 java miniproject.mainc
 ## 📊 Example Output
